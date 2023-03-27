@@ -537,7 +537,7 @@ dependencies = [
  "proc-macro2",
  "quote",
  "ref-cast",
- "syn 2.0.10",
+ "syn 1.0.109",
 ]
 
 [[package]]
